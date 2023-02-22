@@ -1,0 +1,16 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\ref\MultiplierMethod.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\bin\Debug\net5.0\MultiplierMethod.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.csproj.AssemblyReference.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\ref\MultiplierMethod.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MultiplierMethod\MultiplierMethod\obj\Debug\net5.0\MultiplierMethod.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantsC", "ConstantsC\ConstantsC.csproj", "{04D626D5-860B-4EEB-8596-D38B04E5D8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D626D5-860B-4EEB-8596-D38B04E5D8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D626D5-860B-4EEB-8596-D38B04E5D8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D626D5-860B-4EEB-8596-D38B04E5D8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D626D5-860B-4EEB-8596-D38B04E5D8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3AB766-C5DA-4F35-9890-3D1CF06F1C1D}
+	EndGlobalSection
+EndGlobal

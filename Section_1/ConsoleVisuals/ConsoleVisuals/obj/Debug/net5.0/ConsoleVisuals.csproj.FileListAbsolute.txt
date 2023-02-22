@@ -1,0 +1,15 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ref\ConsoleVisuals.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\bin\Debug\net5.0\ConsoleVisuals.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ref\ConsoleVisuals.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\ConsoleVisuals\ConsoleVisuals\obj\Debug\net5.0\ConsoleVisuals.genruntimeconfig.cache

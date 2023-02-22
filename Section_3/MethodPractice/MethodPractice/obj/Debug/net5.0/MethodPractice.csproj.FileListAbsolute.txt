@@ -1,0 +1,16 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\ref\MethodPractice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.csproj.AssemblyReference.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\ref\MethodPractice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_3\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.genruntimeconfig.cache

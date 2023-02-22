@@ -1,0 +1,16 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\ref\Members.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\bin\Debug\net5.0\Members.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.csproj.AssemblyReference.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\ref\Members.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section 7\Members\Members\obj\Debug\net5.0\Members.genruntimeconfig.cache

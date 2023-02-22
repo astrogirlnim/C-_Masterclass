@@ -1,0 +1,16 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ref\ClassesBasics.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\bin\Debug\net5.0\ClassesBasics.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.csproj.AssemblyReference.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ref\ClassesBasics.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_6\ClassesBasics\ClassesBasics\obj\Debug\net5.0\ClassesBasics.genruntimeconfig.cache

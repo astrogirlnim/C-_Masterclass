@@ -1,0 +1,16 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.csproj.AssemblyReference.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\ref\Variable_Practice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\bin\Debug\net5.0\Variable_Practice.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\ref\Variable_Practice.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Variable_Practice\Variable_Practice\obj\Debug\net5.0\Variable_Practice.genruntimeconfig.cache

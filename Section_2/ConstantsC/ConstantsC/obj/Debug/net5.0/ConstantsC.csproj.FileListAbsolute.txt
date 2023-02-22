@@ -1,0 +1,15 @@
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.exe
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.deps.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.runtimeconfig.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.runtimeconfig.dev.json
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ref\ConstantsC.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\bin\Debug\net5.0\ConstantsC.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.AssemblyInfoInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.AssemblyInfo.cs
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.csproj.CoreCompileInputs.cache
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ref\ConstantsC.dll
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.pdb
+C:\Users\natyb\Documents\CS Courses\C#_Masterclass\Section_2\ConstantsC\ConstantsC\obj\Debug\net5.0\ConstantsC.genruntimeconfig.cache
